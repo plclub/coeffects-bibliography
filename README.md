@@ -30,6 +30,11 @@ whose corpus is too vast to collect here.)
   [[HAL](https://hal.science/hal-05191122/)]
   [[slides](www.irif.fr/_media/gt-scalp/journees-2025/sannier-scalp25.pdf)]
 
+* **Typing Strictness** (POPL 2026) \
+  Daniel Sainati, Joseph W. Cutler, Benjamin C. Pierce, and Stephanie Weirich \
+  [[DOI](https://doi.org/10.1145/3776657)]
+  [[arXiv (extended version)](https://arxiv.org/abs/2510.16133)]
+
 * **On Graded Coeffect Types for Information-Flow Control** \
   Vilem-Benjamin Liepelt, Danielle Marshall, Dominic Orchard, Vineet Rajani, and Michael Vollmer \
   [[DOI](https://doi.org/10.1007/978-3-032-08187-2_7)]
