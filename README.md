@@ -24,6 +24,12 @@ whose corpus is too vast to collect here.)
 
 ### 2026
 
+* **Dependent Coeffects for Local Sensitivity Analysis** (POPL 2026) \
+  Victor Sannier, Patrick Baillot \
+  [[DOI](https://doi.org/10.1145/3776670)]
+  [[HAL](https://hal.science/hal-05191122/)]
+  [[slides](www.irif.fr/_media/gt-scalp/journees-2025/sannier-scalp25.pdf)]
+
 * **On Graded Coeffect Types for Information-Flow Control** \
   Vilem-Benjamin Liepelt, Danielle Marshall, Dominic Orchard, Vineet Rajani, and Michael Vollmer \
   [[DOI](https://doi.org/10.1007/978-3-032-08187-2_7)]
@@ -73,6 +79,11 @@ whose corpus is too vast to collect here.)
   [[arXiv (extended version)](https://arxiv.org/abs/2302.07782)]
 
 ### 2022
+
+* **Coeffects for Sharing and Mutation** (OOPSLA 2022) \
+  Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco Servetto \
+  [[DOI](https://doi.org/10.1145/3563319)]
+  [[arXiv (extended version)](https://arxiv.org/abs/2209.07439)]
 
 * **Linearity and Uniqueness: An Entente Cordiale** (ESOP 2022) \
   Danielle Marshall, Michael Vollmer, and Dominic Orchard \
@@ -129,6 +140,11 @@ whose corpus is too vast to collect here.)
   Robert Atkey
   [[DOI](https://doi.org/10.1145/3209108.3209189)]
   [[PDF](https://bentnib.org/quantitative-type-theory.pdf)]
+
+* **Call-by-need effects via coeffects** \
+  Dylan McDermott and Alan Mycroft \
+  [[DOI](https://doi.org/10.1515/comp-2018-0009)]
+  [[PDF](https://dylanm.org/call-by-need-effects.pdf)]
 
 * **Linear Haskell: Practical Linearity in a Higher-Order Polymorphic Language** (POPL 2019) \
   Jean-Philippe Bernardy, Mathieu Boespflug, Ryan R. Newton, Simon Peyton Jones, and Arnaud Spiwack \
