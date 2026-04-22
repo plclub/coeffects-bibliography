@@ -39,6 +39,12 @@ whose corpus is too vast to collect here.)
   Vilem-Benjamin Liepelt, Danielle Marshall, Dominic Orchard, Vineet Rajani, and Michael Vollmer \
   [[DOI](https://doi.org/10.1007/978-3-032-08187-2_7)]
 
+### 2025
+
+* **A Mixed Linear and Graded Logic: Proofs, Terms, and Models** (CSL 2025) \
+  Victoria Vollmer, Danielle Marshall, Harley Eades III, and Dominic Orchard \
+  [[DOI](https://doi.org/10.4230/LIPIcs.CSL.2025.32)]
+
 ### 2024
 
 * **Non-linear communication via graded modal session types** \
@@ -84,6 +90,10 @@ whose corpus is too vast to collect here.)
   [[arXiv (extended version)](https://arxiv.org/abs/2302.07782)]
 
 ### 2022
+
+* **Graded Modal Types for Integrity and Confidentiality** (PLAS 2022) \
+  Danielle Marshall and Dominic Orchard \
+  [[DOI](https://doi.org/10.48550/arXiv.2309.04324)]
 
 * **Coeffects for Sharing and Mutation** (OOPSLA 2022) \
   Riccardo Bianchini, Francesco Dagnino, Paola Giannini, Elena Zucca, and Marco Servetto \
@@ -193,6 +203,12 @@ whose corpus is too vast to collect here.)
 
 ## Theses and Dissertations
 
+### 2026
+
+* **Graded Modal Types for Memory and Communication Safety** (PhD thesis) \
+  Danielle Marshall \
+  [[PDF](https://kar.kent.ac.uk/113723/)
+
 ### 2025
 
 * **Graded Modal Type Theory, Formalized** (licentiate thesis) \
@@ -200,3 +216,9 @@ whose corpus is too vast to collect here.)
   [[HDL](https://hdl.handle.net/2077/86472)]
   [[PDF](https://gupea.ub.gu.se/server/api/core/bitstreams/14d8fa35-2c02-4466-b61b-83cfade759b5/content)]
   [[artefact](https://graded-type-theory.github.io/graded-type-theory/lic2025/)]
+
+### 2014
+
+* **Programming contextual computations** (PhD thesis) \
+  Dominic Orchard \
+  [[PDF](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-854.pdf)
