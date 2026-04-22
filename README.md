@@ -3,6 +3,8 @@
 Inspired by the collaborative [effects bibliography](https://github.com/yallop/effects-bibliography),
 this is a collection of research papers and other resources related to coeffect tracking
 in programming languages theory and implementation.
+(This list intentionally excludes work on linear and other substructural logics,
+whose corpus is too vast to collect here.)
 
 ### Contributing guidelines
 
