@@ -207,7 +207,7 @@ whose corpus is too vast to collect here.)
 
 * **Graded Modal Types for Memory and Communication Safety** (PhD thesis) \
   Danielle Marshall \
-  [[PDF](https://kar.kent.ac.uk/113723/)
+  [[PDF](https://kar.kent.ac.uk/113723/)]
 
 ### 2025
 
@@ -221,4 +221,4 @@ whose corpus is too vast to collect here.)
 
 * **Programming contextual computations** (PhD thesis) \
   Dominic Orchard \
-  [[PDF](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-854.pdf)
+  [[PDF](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-854.pdf)]
