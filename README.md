@@ -43,7 +43,7 @@ whose corpus is too vast to collect here.)
 
 * **A Mixed Linear and Graded Logic: Proofs, Terms, and Models** (CSL 2025) \
   Victoria Vollmer, Danielle Marshall, Harley Eades III, and Dominic Orchard \
-  [[DOI](https://doi.org/10.4230/LIPIcs.CSL.2025.32)]
+  [[DOI](https://doi.org/10.4230/LIPIcs.CSL.2025.32)] [[arXiv (extended version)](https://arxiv.org/abs/2401.17199)]
 
 ### 2024
 
