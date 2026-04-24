@@ -82,7 +82,7 @@ whose corpus is too vast to collect here.)
 
 * **Combining Dependency, Grades, and Adjoint Logic** (TyDe 2023) \
   Peter Hanukaev and Harley Eades III \
-  [[DOI](https://doi.org/10.1145/3609027.3609408)]
+  [[DOI](https://doi.org/10.1145/3609027.3609408)] [[arXiv](https://arxiv.org/abs/2307.09563)]
 
 * **Multi-Graded Featherweight Java** (ECOOP 2023) \
   Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca \
