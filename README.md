@@ -13,7 +13,7 @@ whose corpus is too vast to collect here.)
   both sorted by date in newest → oldest order,
   then for ambiguous dates by article-insensitive alphabetical order
   (e.g. _A Core Quantitative..._ comes after _Bounded Linear..._).
-* Use consistent formatting with the existing files.
+* Use formatting consistent with the existing files.
 
 ## Software Projects
 
@@ -24,8 +24,13 @@ whose corpus is too vast to collect here.)
 
 ### 2026
 
+* **Same Coeffect, Different Base: Connecting Two Dominant Approaches to Graded Types** (ICFP 2026) \
+  Vilem-Benjamin Liepelt, Danielle Marshall, and Dominic Orchard \
+  [[DOI](https://doi.org/10.1145/3828697)]
+  [[arXiv (extended version)](https://arxiv.org/abs/2606.28042)]
+
 * **Dependent Coeffects for Local Sensitivity Analysis** (POPL 2026) \
-  Victor Sannier, Patrick Baillot \
+  Victor Sannier and Patrick Baillot \
   [[DOI](https://doi.org/10.1145/3776670)]
   [[HAL](https://hal.science/hal-05191122/)]
   [[slides](www.irif.fr/_media/gt-scalp/journees-2025/sannier-scalp25.pdf)]
